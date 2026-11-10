@@ -1,0 +1,18 @@
+Data Science Learning Lab Overview:
+│
+├── 01_SQL/
+│   ├── README.md               <-- Cheat sheet: Joins, Window Functions, CTEs
+│   └── window_functions.sql
+│
+├── 02_Python/
+│   ├── README.md               <-- OOP concepts, Pandas tricks, Big-O notes
+│   ├── oop_practice.py
+│   └── churn_model_project.ipynb
+│
+├── 03_Excel_PowerBI/
+│   └── README.md               <-- Power Query steps, DAX formulas, XLOOKUP tips
+│
+├── 04_CS_Foundations/
+│   └── README.md               <-- Memory vs RAM, CPU cores, compilation notes
+│
+└── README.md                   <-- Main landing page: Table of contents & study log
